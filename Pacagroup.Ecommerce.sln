@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Transversal.Common", "Pacagroup.Ecommerce.Transversal.Common\Pacagroup.Ecommerce.Transversal.Common.csproj", "{B8473209-15DB-4FA4-8322-3BA11F50B262}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacion", "Aplicacion", "{C59DFE11-AB6D-4E78-9FE4-FA872E7E7579}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{E365D482-06EF-4BA0-A4B1-2DC37E491BAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{3D80D552-ADE8-4A42-89D7-04BAC0AEB994}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{C5680BD5-9EA1-4F1F-9BBD-32B8C3C21166}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversal", "Transversal", "{EE3DB37E-FA76-403D-AC53-27FF93C4F529}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{111B0CB2-A434-401E-A646-2D7707E93BD4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8473209-15DB-4FA4-8322-3BA11F50B262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8473209-15DB-4FA4-8322-3BA11F50B262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8473209-15DB-4FA4-8322-3BA11F50B262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8473209-15DB-4FA4-8322-3BA11F50B262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8473209-15DB-4FA4-8322-3BA11F50B262} = {EE3DB37E-FA76-403D-AC53-27FF93C4F529}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE95F9B8-1147-46A7-A404-804C7621C263}
+	EndGlobalSection
+EndGlobal
